@@ -1,0 +1,292 @@
+{
+    "/a/": {
+        "roman": {
+            "lower": "a",
+            "upper": "A"
+        },
+        "cyrillic": {
+            "lower": "a",
+            "upper": "A"
+        }
+    },
+    "/b/": {
+        "roman": {
+            "lower": "b",
+            "upper": "B"
+        },
+        "cyrillic": {
+            "lower": "б",
+            "upper": "Б"
+        }
+    },
+    "/v/": {
+        "roman": {
+            "lower": "v",
+            "upper": "V"
+        },
+        "cyrillic": {
+            "lower": "B",
+            "upper": "в"
+        }
+    },
+    "/g/": {
+        "roman": {
+            "lower": "g",
+            "upper": "G"
+        },
+        "cyrillic": {
+            "lower": "Г",
+            "upper": "г"
+        }
+    },
+    "/d/": {
+        "roman": {
+            "lower": "d",
+            "upper": "D"
+        },
+        "cyrillic": {
+            "lower": "Д",
+            "upper": "д"
+        }
+    },
+    "/je/": {
+        "roman": {
+            "lower": "y",
+            "upper": "Y"
+        },
+        "cyrillic": {
+            "lower": "e",
+            "upper": "E"
+        }
+    },
+    "/ʒ/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ж",
+            "upper": "Ж"
+        }
+    },
+    "/z/": {
+        "roman": {
+            "lower": "z",
+            "upper": "Z"
+        },
+        "cyrillic": {
+            "lower": "з",
+            "upper": "З"
+        }
+    },
+    "/i/": {
+        "roman": {
+            "lower": "i",
+            "upper": "I"
+        },
+        "cyrillic": {
+            "lower": "И",
+            "upper": "и"
+        }
+    },
+    "/y/": {
+        "roman": {
+            "lower": "y",
+            "upper": "Y"
+        },
+        "cyrillic": {
+            "lower": "й",
+            "upper": "Й"
+        }
+    },
+    "/k/": {
+        "roman": {
+            "lower": "k",
+            "upper": "K"
+        },
+        "cyrillic": {
+            "lower": "k",
+            "upper": "K"
+        }
+    },
+    "/l/": {
+        "roman": {
+            "lower": "l",
+            "upper": "L"
+        },
+        "cyrillic": {
+            "lower": "л",
+            "upper": "Л"
+        }
+    },
+    "/m/": {
+        "roman": {
+            "lower": "m",
+            "upper": "M"
+        },
+        "cyrillic": {
+            "lower": "m",
+            "upper": "M"
+        }
+    },
+    "/n/": {
+        "roman": {
+            "lower": "n",
+            "upper": "N"
+        },
+        "cyrillic": {
+            "lower": "н",
+            "upper": "Н"
+        }
+    },
+    "/o/": {
+        "roman": {
+            "lower": "o",
+            "upper": "O"
+        },
+        "cyrillic": {
+            "lower": "o",
+            "upper": "O"
+        }
+    },
+    "/p/": {
+        "roman": {
+            "lower": "p",
+            "upper": "P"
+        },
+        "cyrillic": {
+            "lower": "п",
+            "upper": "П"
+        }
+    },
+    "/r/": {
+        "roman": {
+            "lower": "r",
+            "upper": "R"
+        },
+        "cyrillic": {
+            "lower": "р",
+            "upper": "Р"
+        }
+    },
+    "/s/": {
+        "roman": {
+            "lower": "s",
+            "upper": "S"
+        },
+        "cyrillic": {
+            "lower": "с",
+            "upper": "С"
+        }
+    },
+    "/t/": {
+        "roman": {
+            "lower": "t",
+            "upper": "T"
+        },
+        "cyrillic": {
+            "lower": "т",
+            "upper": "Т"
+        }
+    },
+    "/u/": {
+        "roman": {
+            "lower": "u",
+            "upper": "U"
+        },
+        "cyrillic": {
+            "lower": "у",
+            "upper": "У"
+        }
+    },
+    "/f/": {
+        "roman": {
+            "lower": "f",
+            "upper": "F"
+        },
+        "cyrillic": {
+            "lower": "ф",
+            "upper": "Ф"
+        }
+    },
+    "/x/": {
+        "roman": {
+            "lower": "x",
+            "upper": "X"
+        },
+        "cyrillic": {
+            "lower": "x",
+            "upper": "X"
+        }
+    },
+    "/ts/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ц",
+            "upper": "Ц"
+        }
+    },
+    "/tʃ/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ч",
+            "upper": "Ч"
+        }
+    },
+    "/ʃ/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ш",
+            "upper": "Ш"
+        }
+    },
+    "/ʃtʃ/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "щ",
+            "upper": "Щ"
+        }
+    },
+    "/ʲ/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ь",
+            "upper": "Ь"
+        }
+    },
+    "/ju/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "ю",
+            "upper": "Ю"
+        }
+    },
+    "/ja/": {
+        "roman": {
+            "lower": "",
+            "upper": ""
+        },
+        "cyrillic": {
+            "lower": "я",
+            "upper": "Я"
+        }
+    }
+}
